@@ -1,11 +1,6 @@
 <html>
 <body>
-<!-- <img
-  align="center"
-  width="100%"
-  height="20%"
-  src="https://media.giphy.com/media/ggVzRUi0Wbfr4fEO8v/giphy.gif"
-/> -->
+
 <h1 align="center">Hi 👋, I'm Bhumika Salunkhe </h1>
 
 <h2 align="center">Computer Engineering Student 👨‍💻 </h2>
