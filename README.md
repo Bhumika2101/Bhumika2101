@@ -1,8 +1,27 @@
-<h1 align="center">Hi 👋, I'm Bhumika Salunkhe</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="340" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<html>
+<body>
+<!-- <img
+  align="center"
+  width="100%"
+  height="20%"
+  src="https://media.giphy.com/media/ggVzRUi0Wbfr4fEO8v/giphy.gif"
+/> -->
+<h1 align="center">Hi 👋, I'm Bhumika Salunkhe </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumika2101&label=Profile%20views&color=0e75b6&style=flat" alt="bhumika2101" /> </p>
+<h2 align="center">Computer Engineering Student 👨‍💻 </h2>
+
+<div align="center">
+
+</div>
+<img
+  align="right"
+  alt="Coding"
+  width="450"
+  height="370"
+  src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"
+/>
+
+## About Me
 
 - 🌱 I’m currently learning **Node.js and Data Structures**
 
@@ -10,21 +29,66 @@
 
 - 📫 How to reach me **bhumikasalunkhe283@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bhumika-salunkhe-02263725b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhumika-salunkhe-02263725b" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bhumika28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhumika28" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@bhumikasalunkhe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bhumikasalunkhe1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bhumika_salunkhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhumika_salunkhe" height="30" width="40" /></a>
+## **Coding Profiles**:
+
+<p align="left"> 
+    
+  <a href="https://www.leetcode.com/bhumika_salunkhe" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/> </a>   
+  <a href="https://www.codechef.com/users/bhumika28" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/codechef.png"/> </a>    
+  <a href="https://www.hackerrank.com/@bhumikasalunkhe1"
+  target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/> </a>   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhumika2101&show_icons=true&locale=en&layout=compact" alt="bhumika2101" /></p>
+## Languages and Tools:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhumika2101&show_icons=true&locale=en" alt="bhumika2101" /></p>
+<p align="left"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/javascript--v1.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/html-5--v1.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/css3.png"/> </a>
+    <a href="https://nodejs.org/en/docs" target="_blank"> <img src="https://img.icons8.com/color/48/nodejs.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>     
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
+    <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/visual-studio-code-2019.png"/> </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumika2101&" alt="bhumika2101" /></p>
+<br/>
+
+<div align="center">
+  <p><img align="center" color="black" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumika2101&" alt="bhumika2101" /></p>
+</div>
 
 
+
+## My Github Statistics
+
+<br/>
+    <a href="https://github.com/bhumika2101/github-readme-stats"><img alt="Bhumika Salunkhe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhumika2101&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/bhumika2101/github-readme-stats"><img align="right" alt="Bhumika Salunkhe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika2101&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+
+
+<br/>
+<br/>
+
+
+## Connect with me:
+
+<p align="center">
+  <a href = "https://linkedin.com/in/bhumika-salunkhe-02263725b"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
+  <a href = "https://www.instagram.com/bhumika__salunkhe?igsh=aWttMWl1eDZyZ3Js"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
+</p>
+
+## 👀 Views and Followers
+<p align="center">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=bhumika2101">
+</a>
+<a href="https://github.com/bhumika2101?tab=followers"><img src="https://img.shields.io/github/followers/bhumika2101?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+</body>
+</html>
