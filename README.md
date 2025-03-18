@@ -23,7 +23,11 @@
 
 - 🌱 I’m currently learning **Node.js and Data Structures**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bhumika2101](https://github.com/Bhumika2101)
+- 👯 I’m love coding.
+ 
+- 💬 Ask me about Javascript.
+  
+- 👨‍💻 All of my projects are available at **[My Github](https://github.com/Bhumika2101?tab=repositories)**
 
 - 📫 How to reach me **bhumikasalunkhe283@gmail.com**
 
