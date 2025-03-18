@@ -60,7 +60,7 @@
 <br/>
 
 <div align="center">
-  <p> <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhumika2101&theme=radical&hide_border=true&background=50%2CF7ACAC%2B92C8D1" alt="GitHub Streak" /></p>
+  <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhumika2101&theme=radical" alt="GitHub Streak" /></p>
 </div>
 
 
