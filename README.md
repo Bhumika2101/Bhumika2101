@@ -1,7 +1,10 @@
-![logo](https://github.com/bhumika2101/bhumika2101/blob/main/abc.gif)
-<html>
-<body>
 
+<img
+  align="center"
+  width="100%"
+  height="20%"
+  src="https://i.giphy.com/kyp0k7WuLz79is0azg.webp"
+/>
 <h1 align="center">Hi 👋, I'm Bhumika Salunkhe </h1>
 
 <h2 align="center">Computer Engineering Student 👨‍💻 </h2>
@@ -13,9 +16,8 @@
   align="right"
   alt="Coding"
   width="400"
-  height="350"
-  src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"
-/>
+  height="370"
+  src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif"/>
 
 ## About Me
 
@@ -27,14 +29,13 @@
 
 ## **Coding Profiles**:
 
-<p align="left"> 
-    
-  <a href="https://www.leetcode.com/bhumika_salunkhe" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/> </a>   
-  <a href="https://www.codechef.com/users/bhumika28" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/codechef.png"/> </a>    
-  <a href="https://www.hackerrank.com/@bhumikasalunkhe1"
-  target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/> </a>   
-</p>
 
+<p align="left"> 
+    <a href="https://www.leetcode.com/bhumika_salunkhe/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/> </a>   
+    <a href="https://www.codechef.com/users/bhumika28" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/codechef.png"/> </a>    
+    <a href="https://www.hackerrank.com/@bhumikasalunkhe1?hr_r=1"
+      target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/> </a>   
+</p>
 
 ## Languages and Tools:
 
@@ -86,5 +87,4 @@
 </a>
 <a href="https://github.com/bhumika2101?tab=followers"><img src="https://img.shields.io/github/followers/bhumika2101?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
-</body>
-</html>
+
